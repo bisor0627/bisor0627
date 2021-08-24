@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 ## Yang Seolin 👋
 
-### LANGUAGE😄
+### LANGUAGE
 ![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-yellowgreen?style=flat-square&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart&logoColor=white)
 
 
-### INTERESTING🌱
+### INTERESTING
 ![Python](https://img.shields.io/badge/-Python-FFCC66?style=flat-square&logo=Python&logoColor=black)
 ![Html](https://img.shields.io/badge/-HTML-CC3333?style=flat-square&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/-CSS-336699?style=flat-square&logo=css3&logoColor=white)
