@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### LANGUAGE😄
 ![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-yellowgreen?style=flat-square&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/-Swift-yellowgreen?style=flat-square&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart&logoColor=white)
 
 
 ### INTERESTING🌱
