@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate App developer from Korea</h3>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 - 📝 I regularly write articles on [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lbiso) 
 - 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bisor0627@gmail.com)
 <!--
@@ -38,12 +40,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=bisor0627&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=bisor0627&icon=0&color=0)](https://visitcount.itsvg.in)
--->
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+-->
+
+https://github-readme-medium-recent-article.vercel.app/medium/<medium-username>/<article-index>
+
+
+
 
 
 
