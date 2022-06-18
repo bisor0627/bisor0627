@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate App developer from Korea</h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<h3 align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)</h3>
 
 - 📝 I regularly write articles on [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lbiso) 
 - 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bisor0627@gmail.com)
