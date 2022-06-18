@@ -3,7 +3,7 @@
 <h3 align="center">A passionate App developer from Korea</h3>
 
 - 📝 I regularly write articles on [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lbiso) 
-- 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](bisor0627@gmail.com)
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bisor0627@gmail.com)
 <!--
 - 🔭 I’m currently working on **DingdongU**
 - 🌱 I’m currently learning ...
