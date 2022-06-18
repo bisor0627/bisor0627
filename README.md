@@ -44,7 +44,7 @@
 
 https://github-readme-medium-recent-article.vercel.app/medium/<medium-username>/<article-index>
 
-    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
 
