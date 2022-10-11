@@ -42,8 +42,6 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 -->
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lbiso/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lbiso/0" alt="Recent Article 0"> 
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
