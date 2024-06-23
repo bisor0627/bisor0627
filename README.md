@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Biso</h1>
 
-<h3 align="center">A passionate App developer from Korea</h3>
+<h3 align="center">Flutter App developer from Korea</h3>
 
-- 📝 I regularly write articles on [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@lbiso) 
-- 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bisor0627@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@lbiso) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bisor0627@gmail.com)
 <!--
 - 🔭 I’m currently working on **DingdongU**
 - 🌱 I’m currently learning ...
@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## 🌐Socials
+<!-- ## 🌐Socials -->
 
 # 💻Tech Stack
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
