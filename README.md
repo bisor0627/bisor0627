@@ -2,8 +2,8 @@
 
 <h3 align="center">Flutter App developer from Korea</h3>
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@lbiso) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bisor0627@gmail.com)
+
+
 <!--
 - 🔭 I’m currently working on **DingdongU**
 - 🌱 I’m currently learning ...
@@ -13,10 +13,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🌐Socials
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@lbiso) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bisor0627@gmail.com)
 
-<!-- ## 🌐Socials -->
-
-# 💻Tech Stack
+## 💻Tech Stack
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 
