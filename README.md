@@ -2,8 +2,8 @@
 
 <h3 align="center">Flutter App developer from Korea</h3>
 
-<h3 align="center"> [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@lbiso) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bisor0627@gmail.com)</h3>
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@lbiso) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bisor0627@gmail.com)
 <!--
 - 🔭 I’m currently working on **DingdongU**
 - 🌱 I’m currently learning ...
